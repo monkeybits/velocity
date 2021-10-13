@@ -4,7 +4,7 @@
 [http://VelocityJS.org](http://velocityjs.org)
 
 ## News
-WhatsApp, Tumblr, Windows, Samsung, Uber, and thousands of other companies rely on Velocity. Visit [Libscore.com](http://libscore.com/#$.Velocity) to see which sites use Velocity on their homepage.
+WhatsApp, Tulr, Windows, Samsung, Uber, and thousands of other companies rely on Velocity. Visit [Libscore.com](http://libscore.com/#$.Velocity) to see which sites use Velocity on their homepage.
 
 > Hi folks, I have some exciting news to share. Julian has graciously offered and I have accepted to become the lead maintainer for Velocity. I'm really excited to be working closely with and learning from him in order to transition this project onto my plate. I remember when Julian started working on Velocity (locked away in his apartment — a few blocks away from me). Then later when he first announced it publicly. And finally when it exploded in growth from 0 to what it is today. I hope to bring that same enthusiasm, energy, and skill to it. I am honored to be taking it on. Looking forward to working on it along with the rest of the contributors.
 >
